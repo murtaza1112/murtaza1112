@@ -1,4 +1,5 @@
-### Hi there 👋
+### HELLO WORLD !!
+
 My name is Murtaza and I am a full Stack Developer hailing from Mumbai , India . An avid reader , competitive programmer and developer eager to learn adn explore new technologies. Currently I am a  full stack web developer and learning mobile app developement via React Native .
 
 Technologies :  
@@ -11,8 +12,8 @@ Technologies :
 ![](https://img.shields.io/badge/CODE-RUBY-informational?style=for-the-badge&logo=appveyor)
 
 Contact Me At : 
-<br />
 Email : murtaza1112@hotmail.com
+
 <!--
 **murtaza1112/murtaza1112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
