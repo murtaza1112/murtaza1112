@@ -5,7 +5,7 @@ Technologies :
 ![](https://img.shields.io/badge/CODE-C++-informational?style=for-the-badge&logo=appveyor)
 
 Contact Me At : 
-<br>
+<br />
 Email : murtaza1112@hotmail.com
 <!--
 **murtaza1112/murtaza1112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
