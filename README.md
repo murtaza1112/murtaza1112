@@ -3,6 +3,12 @@ My name is Murtaza and I am a full Stack Developer hailing from Mumbai , India .
 
 Technologies :
 ![](https://img.shields.io/badge/CODE-C++-informational?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/CODE-JAVASCRIPT-informational?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/CODE-HTML-informational?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/CODE-CSS-informational?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/CODE-REACT-informational?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/CODE-NODE-informational?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/CODE-RUBY ON RAILS-informational?style=for-the-badge&logo=appveyor)
 
 Contact Me At : 
 <br />
