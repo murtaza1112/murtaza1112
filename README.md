@@ -8,7 +8,7 @@ Technologies :
 ![](https://img.shields.io/badge/CODE-CSS-informational?style=for-the-badge&logo=appveyor)
 ![](https://img.shields.io/badge/CODE-REACT-informational?style=for-the-badge&logo=appveyor)
 ![](https://img.shields.io/badge/CODE-NODE-informational?style=for-the-badge&logo=appveyor)
-![](https://img.shields.io/badge/CODE-RUBY ON RAILS-informational?style=for-the-badge&logo=appveyor)
+![](https://img.shields.io/badge/CODE-RUBY-informational?style=for-the-badge&logo=appveyor)
 
 Contact Me At : 
 <br />
