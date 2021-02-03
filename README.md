@@ -2,7 +2,7 @@
 
 My name is Murtaza and I am a full Stack Developer hailing from Mumbai , India . An avid reader , competitive programmer and developer eager to learn adn explore new technologies. Currently I am a  full stack web developer and learning mobile app developement via React Native .
 
-:computer:__TECH STACK__ :  
+:computer: __TECH STACK__ :  
 - - -
 ![](https://img.shields.io/badge/CODE-C++-informational?style=for-the-badge&logo=appveyor)
 ![](https://img.shields.io/badge/CODE-JAVASCRIPT-informational?style=for-the-badge&logo=appveyor)
@@ -12,7 +12,7 @@ My name is Murtaza and I am a full Stack Developer hailing from Mumbai , India .
 ![](https://img.shields.io/badge/CODE-NODE-informational?style=for-the-badge&logo=appveyor)
 ![](https://img.shields.io/badge/CODE-RUBY-informational?style=for-the-badge&logo=appveyor)
 
-__CONTACT__ :  
+:telephone_receiver: __CONTACT__ :  
 - - -  
 Email : murtaza1112@hotmail.com
 
