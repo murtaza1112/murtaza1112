@@ -13,6 +13,7 @@ __TECH STACK__ :
 ![](https://img.shields.io/badge/CODE-RUBY-informational?style=for-the-badge&logo=appveyor)
 
 __CONTACT__ :  
+- - -  
 Email : murtaza1112@hotmail.com
 
 <!--
