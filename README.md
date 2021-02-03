@@ -5,6 +5,7 @@ Technologies :
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 Contact Me At : 
+<br>
 Email : murtaza1112@hotmail.com
 <!--
 **murtaza1112/murtaza1112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
