@@ -1,6 +1,6 @@
 ### HELLO WORLD ! :wave:
 
-My name is Murtaza and I am a full Stack Developer hailing from Mumbai , India . An avid reader , competitive programmer and developer eager to learn adn explore new technologies. Currently I am a  full stack web developer and exploring machine learning .
+My name is Murtaza and I am a full Stack Developer hailing from Mumbai , India . An avid reader , competitive programmer and developer eager to learn and explore new technologies. Currently I am a  full stack web developer .
 
 :computer: __TECH STACK__ :  
 - - -
